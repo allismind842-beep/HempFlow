@@ -1,0 +1,1 @@
+{"name": "hemp.flow", "version": "1.0.0", "main": "index.js", "dependencies": {"react": "17.0.1", "react-native": "0.64.0"}, "scripts": {"start": "react-native start", "android": "react-native run-android", "ios": "react-native run-ios"}}
